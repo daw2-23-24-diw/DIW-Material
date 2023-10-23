@@ -1,0 +1,39 @@
+@import "reset";
+$tam-base:1rem;
+
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    padding:0 2*$tam-base;
+    background-color:lightgray;
+}
+
+#contenedor div{
+    padding:2em;
+    text-align: center;
+}
+
+#cabecera{
+    background-color:khaki; 
+         
+}
+
+#menu{
+    background-color: lightblue;
+    
+
+}
+
+#contenido1, #contenido2, #contenido3{
+    background-color: lightcoral;
+
+}
+
+
+
+#pie{
+    background-color: lightgreen;
+   
+}
