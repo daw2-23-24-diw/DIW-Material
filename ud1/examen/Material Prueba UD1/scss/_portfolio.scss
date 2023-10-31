@@ -1,0 +1,27 @@
+#portfolio {
+    background-color: $gris-claro;
+
+    a {
+
+        color: $azul-oscuro;
+        font-size: 2*$tam-base;
+    }
+
+    .panel-portfolio {
+       
+
+    }
+
+    #portfolio-kyocera {
+        background-image: url("img/portfolio/kyocera.png");
+    }
+
+    #portfolio-sanitas {
+        background-image: url("img/portfolio/sanitas.png");
+    }
+
+    #portfolio-kadabra {
+        background-image: url("img/portfolio/kadabra.png");
+
+    }
+}

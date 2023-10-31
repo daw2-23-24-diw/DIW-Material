@@ -1,0 +1,57 @@
+#servicios {
+    .servicio {
+        .logo {   
+         
+           
+
+        }
+
+        p {
+            text-align: center;
+            color: $azul-oscuro;
+            font-size: $tam-base;
+            line-height: 1.5;
+        }
+    }
+
+    #diseno-web {
+        background-color: $verde;
+        background-image: url("img/servicios/diseno_web.jpg");
+    }
+
+    #tiendas-online {
+        background-color: $rojo;
+        background-image: url("img/servicios/tiendas_online.jpg");
+    }
+
+    #desarrollo-medida {
+        background-color: $naranja;
+        background-image: url("img/servicios/medida.jpg");
+    }
+
+    #diseno-grafico {
+        background-color: $azul-oscuro;
+        background-image: url("img/servicios/diseno_grafico.jpg");
+    }
+
+    #marketing {
+        background-color: $morado;
+        background-image: url("img/servicios/marketing.png");
+    }
+
+    #posicionamiento {
+        background-color: $amarillo;
+        background-image: url("img/servicios/posicionamiento.png");
+    }
+
+    .titulo {
+        text-align: center;
+        color: $azul-oscuro;
+    }
+
+    .intro {
+        text-align: center;
+        font-size: 2*$tam-base;
+        color: $gris;
+    }
+}

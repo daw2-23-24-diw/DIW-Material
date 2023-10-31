@@ -1,0 +1,39 @@
+
+
+#pie{
+        background-color: $negro;
+        color:$blanco;
+
+    .boton{
+       
+    }
+
+    .facebook {
+        background-image: url("img/social/facebook.png");
+    }
+    
+    .linkedin {
+        background-image: url("img/social/linkedin.png");
+    }
+    
+    .google {
+        background-image: url("img/social/google.png");
+    }   
+    
+    .twitter {
+        background-image: url("img/social/twitter.png");
+    }
+
+.logo{
+   a{
+        font-family: $tipografia-titulo;
+    }
+   }
+
+    .logo_naranja {
+        font-family: $tipografia-titulo;
+        color: $naranja;
+    }
+}
+
+

@@ -1,0 +1,15 @@
+#cabecera {
+    background-color: $verde;
+    color:$blanco;
+    
+    .logo {
+        font-size: 4*$tam-base;
+        a{
+            font-family: $tipografia-titulo;
+        }
+         .logo-naranja {
+            color: $naranja;
+            font-family: $tipografia-titulo;
+        }
+    }
+}
