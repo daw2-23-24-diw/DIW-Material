@@ -1,0 +1,27 @@
+#contacto{
+    text-align: center;
+    h3{
+        @include titulo;
+    }
+
+    button{
+        @include boton;
+    }
+
+    #formulario-contacto{
+        padding:$distancia-base*2;
+        background-color:$color-fondo-portfolio;
+        font-family:$tipografia !important;
+ 
+        textarea{
+            resize: none;
+            font-family:$tipografia !important;
+            padding:calc($distancia-base/2);
+        }
+
+        input{
+            font-family:$tipografia !important;
+            padding:calc($distancia-base/2);
+        }
+    }
+}
