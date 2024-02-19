@@ -5,7 +5,7 @@
   * 3. Añadimos *.* a la lista de dominios permitidos
   */
   
-PUBLIC_KEY="X"; /* Reemplaza con tu API key pública */
+PUBLIC_KEY="efae4e097bdd03d0a43581e8d25c5388"; /* Reemplaza con tu API key pública */
 PRIVATE_KEY="Y"; /* Reemplaza con tu API key privada */
   /* Habitualmente no guardariamos estos datos en el código cliente, sino que los 
       almacenamos en un fichero de configuración (servidor) o guardamos directamente el Hash en la BD  */
