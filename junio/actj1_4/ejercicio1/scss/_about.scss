@@ -1,0 +1,14 @@
+#about{
+   
+    #texto-about{
+
+        h3{
+            @include titulo;
+        }
+
+        a{
+            @include boton;
+          
+        }
+    }
+} 
