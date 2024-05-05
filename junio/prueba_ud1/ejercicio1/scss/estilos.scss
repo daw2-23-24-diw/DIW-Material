@@ -1,0 +1,22 @@
+
+@import "_cabecera.scss";
+@import "_principal.scss";
+@import "_nosotros.scss";
+@import "_pie.scss";
+
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+

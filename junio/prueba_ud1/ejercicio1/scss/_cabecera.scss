@@ -1,0 +1,45 @@
+
+.bg-header {
+    background-image: url('../assets/images/bg-header.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-navbar {
+    background-color: rgba(0, 0, 0, 0.157);
+   
+}
+
+
+
+.navbar-brand {
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 1em;
+    font-weight: 500;
+}
+
+
+
+.navbar-nav {
+    background-color: rgba(0, 0, 0, 0.750);
+    padding: 1em;
+    border-radius: 0.3em;
+}
+
+.nav-link {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    padding: 0.3em;
+}
+
+.nav-link:hover {
+    background-color: white;
+    color: black;
+    border-radius: 0.5em;
+}
+
