@@ -1,0 +1,42 @@
+
+/* Estilos de barra de navegación */
+nav .titulo{
+    font-size:2rem;
+}
+
+nav .d-flex{
+    gap:1rem;
+    font-size:1.5rem;
+}
+
+
+/* Estilos de la sección principal */
+
+.imagen{
+    width:50%;
+}
+input{
+    text-align:center;
+}
+.size{
+    font-size:2rem;
+}
+.historial{
+    font-size:1rem;
+}
+
+/* Estilos del detalle de ciudad */
+.tarjeta{
+    width: 18rem;
+}
+
+.bg-image {
+    background-image: url('https://cdn.jim-nielsen.com/ios/512/weather-2021-12-07.png?rf=1024');
+    background-size: contain;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+
+.full-height {
+    height: 100vh;
+}
